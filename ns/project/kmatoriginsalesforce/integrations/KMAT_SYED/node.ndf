@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">kmat</value>
-    <value name="lastModifiedDate">1717688921505</value>
+    <value name="lastModifiedDate">1717690163419</value>
     <value name="displayName">KMAT_SYED</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -81,12 +81,14 @@
           <null name="services"/>
         </record>
         <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="description">SF_CCS:SF_DEV_QueryAccounts</value>
-          <value name="serviceName">SF_CCS:SF_DEV_QueryAccounts</value>
-          <value name="displayName">SF_DEV_QueryAccounts</value>
+          <value name="description">SF_CCS:SF_Query_Second</value>
+          <value name="serviceName">SF_CCS:SF_Query_Second</value>
+          <value name="displayName">SF_Query_Second</value>
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">1</value>
       </record>
     </record>
   </record>
