@@ -45,8 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="lastModifiedBy">lakshmi</value>
-    <value name="lastModifiedDate">1717659437808</value>
+    <value name="lastModifiedBy">kmat</value>
+    <value name="lastModifiedDate">1717688895191</value>
     <value name="displayName">KMAT_SYED</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -71,6 +71,22 @@
         <number name="nodeIndex" type="Long">0</number>
         <number name="lineNumberForDebug" type="Long">1</number>
         <value name="nodePathForDebug">0</value>
+      </record>
+      <record name="/1" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">PACKAGES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">OriginKMAT_Jun2024</value>
+          <value name="groupName">OriginKMAT_Jun2024;1.0</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="description">SF_CCS:SF_DEV_QueryAccounts</value>
+          <value name="serviceName">SF_CCS:SF_DEV_QueryAccounts</value>
+          <value name="displayName">SF_DEV_QueryAccounts</value>
+        </record>
+        <null name="outputMapSet"/>
+        <null name="mapSet"/>
       </record>
     </record>
   </record>
