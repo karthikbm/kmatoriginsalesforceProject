@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="Lakshmi">1.0</value>
+    <value name="salesforceassets">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">06-06-2024 06:56:57 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-06-06T07:30:48.427713871Z</value>
+  <value name="lastUpdated">2024-06-06T07:37:17.817805898Z</value>
   <value name="wmProjectId">fl1c1f8a87fed4339ded1310</value>
   <value name="creator">Karthik Mata</value>
 </Values>

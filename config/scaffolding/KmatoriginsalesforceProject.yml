@@ -13,6 +13,11 @@ packages:
   gitUrl: https://github.com/lakshmidevi277
   gitUsername: lakshmidevi277
   gitBranch: main
+- name: salesforceassets
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm
+  gitUsername: karthikbm
+  gitBranch: main
 services:
 - serviceName: project.kmatoriginsalesforce.integrations:KMAT_SYED
   packages:
