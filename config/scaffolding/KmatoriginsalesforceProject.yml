@@ -20,6 +20,7 @@ packages:
   gitUsername: karthikbm
   gitBranch: main
 - name: OriginKMAT_Jun2024
+  version: "1.0"
   gitServerName: Karthik
   gitUrl: https://github.com/karthikbm
   gitUsername: karthikbm
@@ -33,7 +34,13 @@ services:
     version: "1.0"
   - name: salesforceassets
     version: "1.0"
+  - name: OriginKMAT_Jun2024
+    version: "1.0"
 - serviceName: ccs:sf_query
   packages:
   - name: Lakshmi
+    version: "1.0"
+- serviceName: SF_CCS:SF_DEV_QueryAccounts
+  packages:
+  - name: OriginKMAT_Jun2024
     version: "1.0"

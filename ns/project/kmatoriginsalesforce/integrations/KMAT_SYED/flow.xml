@@ -5,7 +5,7 @@
 
   <!-- nodes -->
 
-<INVOKE NAME="Lakshmi" SERVICE="ccs:sf_query">
+<INVOKE NAME="Lakshmi" SERVICE="ccs:sf_query" DISABLED="true">
   <COMMENT></COMMENT>
 </INVOKE>
 
