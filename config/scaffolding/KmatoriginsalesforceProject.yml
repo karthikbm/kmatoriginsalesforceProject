@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: KmatoriginsalesforceProject
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm/KmatoriginsalesforceProject
+  gitUsername: karthikbm
+  gitBranch: main
